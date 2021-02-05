@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">IshiharaApplication</string>
+    <string name="o_que">O que é?</string>
+    <string name="descricao">"Daltonismo é uma perturbação da percepção visual caracterizada pela incapacidade de diferenciar todas ou algumas cores Em geral dificuldade de distinguir o verde do vermelho. "</string>
+    <string name="faca_o_teste">Faça o teste</string>
+    <string name="teste_1">Teste 1</string>
+    <string name="teste_2">Teste 2</string>
+    <string name="teste_3">Teste 3</string>
+    <string name="resultados">Resultados</string>
+    <string name="r_1">R1</string>
+    <string name="r_2">R2</string>
+    <string name="r_3">R3</string>
+    <string name="verificar">Verificar</string>
+    <string name="r_f">Resultado Final</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="cancelar">Cancelar</string>
+</resources>
